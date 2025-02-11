@@ -1,5 +1,5 @@
 resource "aws_instance" "lch" {
-  ami           = "ami-0076be86944570bff"
+  ami           = "ami-04681163a08179f28"
   instance_type = "t3.micro"
 
   tags = {
